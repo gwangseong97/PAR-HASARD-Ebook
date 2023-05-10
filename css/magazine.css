@@ -6,8 +6,9 @@ body {
 }
 
 #canvas {
-	background: url(../images/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.jpg)no-repeat;
-	height: 3333px;
+	background: url(../images/pexels-johannes-plenio-1103970.png)no-repeat center center;
+	height: 100%;
+
 }
 
 .magazine-viewport .container {
